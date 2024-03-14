@@ -15,7 +15,7 @@ TODO
 
 ---
 
-### Tutorials
+### Research Areas
 
 TODO
 
